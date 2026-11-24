@@ -1,0 +1,54 @@
+{
+  "front_wheel_correction": [
+    {
+      "wheel": 1,
+      "before": [
+        -0.6815588474273682,
+        -1.4025521278381348,
+        0.41345635056495667
+      ],
+      "after": [
+        -0.8075588345527649,
+        -1.4025521278381348,
+        0.41345635056495667
+      ],
+      "outward_shift_m": 0.126
+    },
+    {
+      "wheel": 2,
+      "before": [
+        0.6781710386276245,
+        -1.402554988861084,
+        0.41345638036727905
+      ],
+      "after": [
+        0.8041710257530212,
+        -1.402554988861084,
+        0.41345638036727905
+      ],
+      "outward_shift_m": 0.126
+    }
+  ],
+  "camera_location": [
+    9.199999809265137,
+    -12.800000190734863,
+    5.300000190734863
+  ],
+  "camera_target": [
+    0.0,
+    0.0,
+    0.550000011920929
+  ],
+  "azimuth_degrees": 35.706691400602885,
+  "elevation_degrees": 16.76933111562854,
+  "lens": 43,
+  "fade_start_frame": 271,
+  "fade_end_frame": 300,
+  "version": 3,
+  "entry": "same S curve, quintic distance timing, direction-sensitive yaw slip",
+  "headlight_peak_emission": 30,
+  "body_flow": "front-to-rear warm highlight, 2.28\u20132.98 s",
+  "burnout": "rear-wheel independent spin, 3.15\u20133.60 s; 1.8 rotations before launch",
+  "launch_start_seconds": 3.6,
+  "extras": "soft localized smoke and tiny sparks"
+}

@@ -1,0 +1,13 @@
+{
+  "format": "SVGA 2.0",
+  "width": 750,
+  "height": 1624,
+  "fps": 60,
+  "frames": 300,
+  "duration_seconds": 5,
+  "unique_images": 211,
+  "bytes": 21114361,
+  "decoded_image_memory_bytes": 71923492,
+  "trail_format": "8 native vector ribbons projected from actual 3D rear wheel paths",
+  "partial": false
+}

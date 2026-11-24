@@ -1,5 +1,29 @@
 # 12
 
+## Ferrari V3：修订版透明礼物动效
+
+750 × 1624 px · 60 FPS · 5 秒 · 300 帧。
+
+本版保留 V2 的材质、视角和 S 弯路线，强化入场加速与转弯甩尾，提升两次闪灯亮度，加入车头到车尾的暖金流光。离场前后轮原地空转约 0.45 秒，伴随少量贴地烟雾与细小火花，再加速冲出画面；尾部光轨线性淡出。
+
+Windows 用户点击下载包链接，将 ZIP 保存到电脑后解压。
+
+| 文件 | 下载 | 大小 |
+| --- | --- | --- |
+| 推荐：SVGA + 预览下载包 | [Ferrari_V3_Download.zip](https://raw.githubusercontent.com/r1162495517-lang/12/main/ferrari-delivery-v3/Ferrari_V3_Download.zip) | 21.50 MB |
+| 透明 SVGA | [Ferrari_Drift_V3_750x1624_60fps.svga](https://raw.githubusercontent.com/r1162495517-lang/12/main/ferrari-delivery-v3/Ferrari_Drift_V3_750x1624_60fps.svga) | 21.11 MB |
+| 300 帧 RGBA PNG 序列 | [Ferrari_V3_RGBA_PNG_300frames.zip](https://raw.githubusercontent.com/r1162495517-lang/12/main/ferrari-delivery-v3/Ferrari_V3_RGBA_PNG_300frames.zip) | 50.17 MB |
+| 可编辑 Blender 工程、FBX 和 maps | [Ferrari_V3_Editable_Project.zip](https://raw.githubusercontent.com/r1162495517-lang/12/main/ferrari-delivery-v3/Ferrari_V3_Editable_Project.zip) | 98.03 MB |
+| MP4 观看预览 | [Ferrari_V3_preview.mp4](https://raw.githubusercontent.com/r1162495517-lang/12/main/ferrari-delivery-v3/Ferrari_V3_preview.mp4) | 0.38 MB |
+
+SVGA 和 PNG 为真实透明背景；MP4 的棋盘格只用于观看。工程保留原始 91 个网格、710,996 个顶点、979,426 个多边形，未合并或降低精度。车轮滚动、前轮转向和卡钳层级已检查。
+
+已通过 SVGA Web Player 2.3.2 加载、300 帧 RGBA 导出与尾部透明度检查；尚未在收件方实际移动 APP 的 SVGA SDK 上测试。
+
+[SHA-256 校验值](https://raw.githubusercontent.com/r1162495517-lang/12/main/ferrari-delivery-v3/SHA256SUMS.txt)
+
+---
+
 ## Ferrari V2：修订版透明礼物动效
 
 750 × 1624 px · 60 FPS · 5 秒 · 300 帧。
